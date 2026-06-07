@@ -4,13 +4,15 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Hot potato": "pkg:Hot potato.json"
     },
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
-        "main.py"
+        "main.py",
+        "Hot potato.json"
     ],
     "testFiles": [
         "test.ts"
